@@ -2,6 +2,7 @@
 Helllloo world! From this repo.
 MICHAL!
 -[Nabeel Sahib](https://github.com/bill10110)
+-[Navoda](https://github.com/navodap)
 -[soum-i] https://github.com/soum-i
  [Trishit1234](https://github.com/Trishit1234)
 -[Aman kumar]https://github.com/2007aman
@@ -15,7 +16,6 @@ MICHAL!
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
 -[Ranjith](https://github.com/ranjith1444)
--[Navoda](https://github.com/navodap)
 - [Maicheal Shenouda](https://github.com/ymazir)
 -[Priyanshu Rawat](https://github.com/insanityatpeak)
 -[Tharaka Denuwan](https://github.com/tharakadenuwan)
