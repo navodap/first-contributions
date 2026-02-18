@@ -15,7 +15,7 @@ MICHAL!
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
 -[Ranjith](https://github.com/ranjith1444)
-  [Navoda](https://github.com/navodap)
+-[Navoda](https://github.com/navodap)
 - [Maicheal Shenouda](https://github.com/ymazir)
 -[Priyanshu Rawat](https://github.com/insanityatpeak)
 -[Tharaka Denuwan](https://github.com/tharakadenuwan)
