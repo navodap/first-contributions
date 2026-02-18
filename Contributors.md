@@ -11,7 +11,7 @@ MICHAL!
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Nur Islam](https://github.com/nurislam243)
--[Navoda](https://github.com/navodap)
+- [Navoda](https://github.com/navodap)
 - [Roshan Jha](https://github.com/rosh-py)
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
